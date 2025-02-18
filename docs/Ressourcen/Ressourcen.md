@@ -22,4 +22,4 @@ sidebar_label: Ressourcen
 - **SPINACH:**  
   [Besuche SPINACH](https://spinach.genie.stanford.edu/)
 - **iART:**  
-  [Besuche iART](www.iart.vision)
+  [Besuche iART](https://www.iart.vision)
