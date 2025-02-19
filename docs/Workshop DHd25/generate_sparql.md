@@ -1,12 +1,28 @@
 ---
 id: art-historische-sparql-aufgabe
-title: Kunsthistorische SPARQL-Abfrageaufgabe
-sidebar_label: SPARQL-Abfrageaufgabe
+title: Aufgaben
+sidebar_label: Aufgaben
 ---
+## Ontologie entwickeln
 
-# Kunsthistorische SPARQL-Abfrage – generiert mit LLMs
+Entwickle eine Ontologie mit Entitäten und Relationen für Deinen Text:
 
-## Aufgabenübersicht
+1.	Identifiziere die zentralen Begriffe
+	•	Extrahiere die wichtigsten Entitäten aus Deinem Text (z. B. Konzepte, Objekte, Akteure).
+2.	Kategorisiere die Entitäten
+	•	Ordne die Entitäten in übergeordnete Klassen und Unterkategorien ein. (z.B. Künstler, Emotion, Genre)
+3.	Definiere Relationen zwischen den Entitäten
+	•	Beschreibe, wie die Entitäten miteinander in Verbindung stehen (z. B. „ist Teil von“, „beeinflusst“).
+4.	Verknüpfe die Entitäten mit Wikidata QIDs
+	•	Recherchiere und verknüpfe passende Wikidata QIDs für relevante Entitäten.
+5.	Strukturiere die Ontologie als Diagramm oder Modell
+	•	Erstelle eine visuelle Darstellung der Ontologie (z. B. als Graph oder Tabelle).
+
+## Annotation in INCePTION 
+
+
+
+## Kunsthistorische SPARQL-Abfrage – generiert mit LLMs
 
 Entwickle SPARQL-Abfragen für folgende Szenarien:
 
