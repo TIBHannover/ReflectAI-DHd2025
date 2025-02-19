@@ -112,7 +112,7 @@ const SchedulerItemsTuesday = [
     text: (
       <>
         Hybride KI:  Zusammenspiel LLM / VLM mit Knowledge Graph
-        Automatische SPARQL-Generierung (Max, sponsored by CbDD © ) und RAG (Matthias)
+        Automatische SPARQL-Generierung und RAG
         (45 min)
       </>
     ),
