@@ -3,7 +3,7 @@ id: art-historische-sparql-aufgabe
 title: Aufgaben
 sidebar_label: Aufgaben
 ---
-## Ontologie entwickeln
+## 1. Ontologie entwickeln
 
 Entwickle eine Ontologie mit Entitäten und Relationen für Deinen Text:
 
@@ -18,11 +18,19 @@ Entwickle eine Ontologie mit Entitäten und Relationen für Deinen Text:
 5.	Strukturiere die Ontologie als Diagramm oder Modell
 	•	Erstelle eine visuelle Darstellung der Ontologie (z. B. als Graph oder Tabelle).
 
-## Annotation in INCePTION 
+## 2. Annotation in INCePTION 
+1. Text auswählen
+   • Bestimme einen geeigneten Text als Grundlage für die Ontologie.
+2. Mit der Software vertraut machen
+   • Arbeite Dich in INCePTION ein (z. B. Annotationstools, Ontologie-Integration, Exportmöglichkeiten).
+3. Entitäten und Relationen in INCePTION extrahieren
+   • Markiere zentrale Entitäten und definiere Relationen direkt in INCePTION.
+4. Struktur der Ontologie optimieren
+   • Kategorisiere die Entitäten und passe die Relationen an, um eine konsistente Ontologie zu entwickeln.
+5. Wikidata QIDs zuweisen
+   • Ergänze relevante Wikidata-QIDs für die extrahierten Entitäten und prüfe, ob sie bereits in Wikidata existieren.
 
-
-
-## Kunsthistorische SPARQL-Abfrage – generiert mit LLMs
+## 3. Kunsthistorische SPARQL-Abfrage mit LLMs generieren
 
 Entwickle SPARQL-Abfragen für folgende Szenarien:
 
