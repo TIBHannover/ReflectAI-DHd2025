@@ -22,7 +22,7 @@ Entwickle eine Ontologie mit Entitäten und Relationen für Deinen Text:
 1. Text auswählen
    • Bestimme einen geeigneten Text als Grundlage für die Ontologie.
 2. Mit der Software vertraut machen
-   • Arbeite Dich in INCePTION ein (z. B. Annotationstools, Ontologie-Integration, Exportmöglichkeiten).
+   • Arbeite Dich in INCePTION ein.
 3. Entitäten und Relationen in INCePTION extrahieren
    • Markiere zentrale Entitäten und definiere Relationen direkt in INCePTION.
 4. Struktur der Ontologie optimieren
