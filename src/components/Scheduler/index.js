@@ -32,19 +32,19 @@ const SchedulerItemsMonday = [
   },
   {
     start: '15:30',
-    end: '16:30',
+    end: '16:00',
     text: (
       <>
-        Vorstellung TagSet Inception (Metadaten / Content / Co-Reference Layer) (60 min)
+        Vorstellung TagSet Inception (Metadaten / Content / Co-Reference Layer) (30 min)
       </>
     ),
   },
   {
-    start: '16:30',
-    end: '17:15',
+    start: '16:00',
+    end: '17:00',
     text: (
       <>
-        Manuelles Erstellen von Ontologien / manuelle Triplet-Extraktion der Teilnehmenden (45 min)
+        Manuelles Erstellen von Ontologien / manuelle Triplet-Extraktion der Teilnehmenden (60 min)
       </>
     ),
   },
