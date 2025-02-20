@@ -131,7 +131,7 @@ const SchedulerItemsTuesday = [
     end: '16:15',
     text: (
       <>
-        Praxisteil: SPINACH (https://spinach.genie.stanford.edu/) vs. andere LLMs / Chains of Thought (60 min)
+        Praxisteil: SPINACH (https://spinach.genie.stanford.edu/) vs. andere LLMs / Chain of Thought (60 min)
       </>
     ),
   },
