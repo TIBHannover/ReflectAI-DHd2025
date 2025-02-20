@@ -4,11 +4,20 @@ import styles from './styles.module.css';
 
 const SchedulerItemsMonday = [
   {
+    start: '14:00',
+    end: '14:30',
+    text: (
+      <>
+        Begrüßung, Einführung ReflectAI / iART + Organisatorisches (30 min)
+      </>
+    ),
+  },
+  {
     start: '14:30',
     end: '15:00',
     text: (
       <>
-        Begrüßung, Einführung ReflectAI / iART + Organisatorisches (30 min)
+        Einführung/Keynote Knowledge Graph / Triple Extraction (30 min)
       </>
     ),
   },
@@ -17,22 +26,13 @@ const SchedulerItemsMonday = [
     end: '15:30',
     text: (
       <>
-        Einführung/Keynote Knowledge Graph / Triple Extraction (30 min)
-      </>
-    ),
-  },
-  {
-    start: '15:30',
-    end: '16:00',
-    text: (
-      <>
         Pause (30 min)
       </>
     ),
   },
   {
-    start: '16:00',
-    end: '16:45',
+    start: '15:30',
+    end: '16:30',
     text: (
       <>
         Vorstellung TagSet Inception (Metadaten / Content / Co-Reference Layer) (60 min)
@@ -40,8 +40,8 @@ const SchedulerItemsMonday = [
     ),
   },
   {
-    start: '16:45',
-    end: '17:30',
+    start: '16:30',
+    end: '17:15',
     text: (
       <>
         Manuelles Erstellen von Ontologien / manuelle Triplet-Extraktion der Teilnehmenden (45 min)
