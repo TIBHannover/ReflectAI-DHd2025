@@ -3,8 +3,7 @@ id: art-historische-sparql-aufgabe
 title: Aufgaben
 sidebar_label: Aufgaben
 ---
-# Arbeitsaufgabe: Entwicklung einer Ontologie
-## Schritte zur Ontologie-Erstellung  
+## Arbeitsaufgabe: Entwicklung einer Ontologie
 
 ### 1. Identifiziere die zentralen Begriffe  
 - Extrahiere die wichtigsten **Entitäten** aus deinem Text.  
@@ -34,12 +33,12 @@ sidebar_label: Aufgaben
   - **Tabelle** zur Übersicht der Entitäten und Relationen  
 
 
-# Arbeitsaufgabe: Annotation in INCEpTION  
+## Arbeitsaufgabe: Annotation in INCEpTION  
 
-## Ziel  
+### Ziel  
 Erstellung einer strukturierten Annotation eines Textes mithilfe von **INCEpTION** und Verknüpfung mit **Wikidata**.  
 
-## Schritte  
+### Schritte  
 
 ### 1. Text auswählen  
 - Wähle einen **geeigneten Text** als Grundlage für die Ontologie.  
