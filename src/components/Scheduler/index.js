@@ -8,7 +8,7 @@ const SchedulerItemsMonday = [
     end: '14:30',
     text: (
       <>
-        Begrüßung, Einführung ReflectAI / iART + Organisatorisches (30 min)
+        Begrüßung der Teilnehmenden und Einführung in ReflectAI und iART.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const SchedulerItemsMonday = [
     end: '15:00',
     text: (
       <>
-        Einführung/Keynote Knowledge Graph / Triple Extraction (30 min)
+        Ralf Krestel: “Einführung in Wissensgraphen” (30 min)
       </>
     ),
   },
@@ -35,7 +35,7 @@ const SchedulerItemsMonday = [
     end: '16:00',
     text: (
       <>
-        Vorstellung TagSet Inception (Metadaten / Content / Co-Reference Layer) (30 min)
+        Vorstellung der Annotationsrichtlinien von ReflectAI und Beispiele für manuelle Triplet-Extraktion.
       </>
     ),
   },
@@ -44,7 +44,16 @@ const SchedulerItemsMonday = [
     end: '17:00',
     text: (
       <>
-        Manuelles Erstellen von Ontologien / manuelle Triplet-Extraktion der Teilnehmenden (60 min)
+        Erstellen von Ontologien und extrahieren von Triples aus Texten -  manuell oder mithilfe eines unterstützenden Tools wie Inception.
+      </>
+    ),
+  },
+  {
+    start: '17:00',
+    end: '17:30',
+    text: (
+      <>
+        Einrichten der gemeinsamen Arbeitsumgebung in Google Colab.
       </>
     ),
   },
@@ -62,20 +71,20 @@ const SchedulerItemsTuesday = [
     ),
   },
   {
-    start: '09:30',
-    end: '11:00',
+    start: '14:00',
+    end: '14:30',
     text: (
       <>
-        Ausprobieren automatisierte Triplet-Extraktion mit LLMs auf Colab (90 min)
+        Einführung in verschiedene Methoden zur automatisierten Triplet-Extraktion mit großen Sprachmodellen, u. a. Gollie und DeepKE.
       </>
     ),
   },
   {
-    start: '11:00',
-    end: '11:15',
+    start: '14:30',
+    end: '15:00',
     text: (
       <>
-        Pause (15 min)
+        Testen der automatisierten Extraktion mithilfe der vorgestellten Methoden mit Beispieltexten.
       </>
     ),
   },
@@ -89,37 +98,8 @@ const SchedulerItemsTuesday = [
     ),
   },
   {
-    start: '12:15',
-    end: '13:15',
-    text: (
-      <>
-        Pause (60 min)
-      </>
-    ),
-  },
-  {
-    start: '13:15',
-    end: '14:15',
-    text: (
-      <>
-        Abgleichen der Entitäten mit Wikidata (60 min)
-      </>
-    ),
-  },
-  {
-    start: '14:15',
-    end: '15:00',
-    text: (
-      <>
-        Hybride KI:  Zusammenspiel LLM / VLM mit Knowledge Graph
-        Automatische SPARQL-Generierung und RAG
-        (45 min)
-      </>
-    ),
-  },
-  {
-    start: '15:00',
-    end: '15:15',
+    start: '15:30',
+    end: '15:45',
     text: (
       <>
         Pause (15 min)
@@ -127,20 +107,29 @@ const SchedulerItemsTuesday = [
     ),
   },
   {
-    start: '15:15',
-    end: '16:15',
+    start: '15:45',
+    end: '16:30',
     text: (
       <>
-        Praxisteil: SPINACH (https://spinach.genie.stanford.edu/) vs. andere LLMs / Chain of Thought (60 min)
+        Vergleichen der Ergebnisse der manuellen und automatisierten Extraktion.
       </>
     ),
   },
   {
-    start: '16:15',
+    start: '16:30',
     end: '17:00',
     text: (
       <>
-        Diskussion / Evaluation / Feedback (45 min)
+        Abgleichen der extrahierten Entitäten mit Wikidata und kurze Vorstellung der Abfragesprache SPARQL, um gezielt Informationen aus Wissensgraphen zu extrahieren.
+      </>
+    ),
+  },
+  {
+    start: '17:00',
+    end: '17:30',
+    text: (
+      <>
+        Zusammenfassung der wichtigsten Ergebnisse und Gelegenheit für Feedback und offene Fragen.
       </>
     ),
   },
