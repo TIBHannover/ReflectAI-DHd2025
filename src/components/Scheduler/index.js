@@ -62,15 +62,6 @@ const SchedulerItemsMonday = [
 
 const SchedulerItemsTuesday = [
   {
-    start: '09:00',
-    end: '09:30',
-    text: (
-      <>
-        Vorstellung von Methoden zur automatisierten Triplet-Extraktion mit LLMs (Gollie / DeepKE / …) (30 min)
-      </>
-    ),
-  },
-  {
     start: '14:00',
     end: '14:30',
     text: (
