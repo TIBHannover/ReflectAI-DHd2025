@@ -29,14 +29,14 @@ sidebar_label: Aufgaben
 ### 5. Strukturiere die Ontologie als Diagramm oder Modell  
 - Erstelle eine **visuelle Darstellung** der Ontologie.  
 - Mögliche Darstellungsformen:  
-  - **Graph** (z. B. mit Graphviz oder Neo4j)  
+  - **Graph**  
   - **Tabelle** zur Übersicht der Entitäten und Relationen  
 
 
 ## Arbeitsaufgabe: Annotation in INCEpTION  
 
 ### Ziel  
-Erstellung einer strukturierten Annotation eines Textes mithilfe von **INCEpTION** und Verknüpfung mit **Wikidata**.  
+Erstellung einer strukturierten Annotation eines Textes mithilfe von **INCEpTION**
 
 ### Schritte  
 
@@ -46,7 +46,7 @@ Erstellung einer strukturierten Annotation eines Textes mithilfe von **INCEpTION
 
 ### 2. Mit der Software vertraut machen  
 - **Melde dich bei INCEpTION an** und erkunde die Benutzeroberfläche.  
-- Teste grundlegende Funktionen wie **Annotation, Relationserstellung und Exportoptionen**.  
+- Teste grundlegende Funktionen wie **Annotation und Relationserstellung.  
 
 ### 3. Entitäten und Relationen extrahieren  
 - **Markiere zentrale Entitäten** direkt in INCEpTION.  
@@ -57,7 +57,3 @@ Erstellung einer strukturierten Annotation eines Textes mithilfe von **INCEpTION
 - Überprüfe und **kategorisiere die Entitäten** in sinnvolle Gruppen.  
 - Falls nötig, passe bestehende Relationen an oder ergänze neue Relationen.  
 - Stelle sicher, dass die Ontologie eine **logische und nachvollziehbare Struktur** hat.  
-
-### 5. Wikidata QIDs zuweisen  
-- Recherchiere in **Wikidata**, ob die extrahierten Entitäten bereits existieren.  
-- Falls vorhanden, **verknüpfe die Entitäten mit den passenden Wikidata-QIDs**.  

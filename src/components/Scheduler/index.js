@@ -8,7 +8,7 @@ const SchedulerItemsMonday = [
     end: '14:30',
     text: (
       <>
-        Begrüßung der Teilnehmenden und Einführung in ReflectAI und iART.
+        Begrüßung der Teilnehmenden und Vorstellung von ReflectAI und iART.
       </>
     ),
   },
