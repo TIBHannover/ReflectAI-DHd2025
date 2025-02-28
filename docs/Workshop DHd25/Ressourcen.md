@@ -10,7 +10,7 @@ sidebar_label: Ressourcen
   PDF der Präsentation: 
 - **Colab Notebooks:**  
   Übungen zur automatisierten Triplet-Extraktion in Google Colab:   
-  (Link zu den Notebooks: [Colab Notebooks](https://colab.research.google.com))
+  - [BERT](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/bert.ipynb)
 - **Annotaiton Guidelines ReflectAI:**
   [Link zu den Annotation Guidelines](https://guideline.open-develop.org)
 
