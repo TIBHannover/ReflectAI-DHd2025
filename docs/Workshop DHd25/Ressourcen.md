@@ -8,6 +8,8 @@ sidebar_label: Ressourcen
 
 - **Präsentationsfolien & Handouts:**  
   PDF der Präsentation: 
+  [Ralf Krestel](resources/2025-03-03-EinführungInWissensgraphen-ReflectAI-dDH-Bielefeld.pdf)
+
 - **Colab Notebooks:**  
   Huggingface:```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```
 
