@@ -8,9 +8,10 @@ sidebar_label: Ressourcen
 
 - **Präsentationsfolien & Handouts:**  
   PDF der Präsentation: 
+  - [Ralf Krestel Wissengraphen](https://github.com/TIBHannover/ReflectAI-DHd2025/blob/main/resources/2025-03-03-Einf%C3%BChrungInWissensgraphen-ReflectAI-dDH-Bielefeld.pdf)
 
 - **Colab Notebooks:**  
-  Huggingface:```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```
+  Huggingface: ```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```
 
   Übungen zur automatisierten Triplet-Extraktion in Google Colab:   
   - [BERT](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/bert.ipynb)
