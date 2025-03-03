@@ -66,7 +66,7 @@ const SchedulerItemsTuesday = [
     end: '14:30',
     text: (
       <>
-        Einführung in verschiedene Methoden zur automatisierten Triplet-Extraktion mit großen Sprachmodellen, u. a. Gollie und DeepKE.
+        Einführung in verschiedene Methoden zur automatisierten Triplet-Extraktion mit großen Sprachmodellen, u. a. KnowGL, Instructor und DeepKE.
       </>
     ),
   },
@@ -76,15 +76,6 @@ const SchedulerItemsTuesday = [
     text: (
       <>
         Testen der automatisierten Extraktion mithilfe der vorgestellten Methoden mit Beispieltexten.
-      </>
-    ),
-  },
-  {
-    start: '11:15',
-    end: '12:15',
-    text: (
-      <>
-        Evaluation der manuellen / automatisierten Extraktion (60 min)
       </>
     ),
   },
