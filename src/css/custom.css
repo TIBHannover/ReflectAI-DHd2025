@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-heading-color: #ffffff;
+  --ifm-heading-h1-color: #ffffff;
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #ffffff;
   --ifm-color-primary-darker: #277148;
@@ -21,7 +21,7 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
 
-  --ifm-heading-color: #000000;
+  --ifm-heading-h1-color: #000000;
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -39,7 +39,7 @@
   position: relative;
   overflow: hidden;
   background-color: var(--ifm-color-primary);
-  color: var(--ifm-heading-color);
+  color: var(--ifm-heading-h1-color);
 }
 
 @media screen and (max-width: 996px) {
