@@ -32,6 +32,6 @@ sidebar_label: Ressourcen
 
 # Links
 
-- **Inception:** [Besuche Inception](https://dhd24.open-develop.org/)
-- **SPINACH:** [Besuche SPINACH](https://spinach.genie.stanford.edu/)
-- **iART:** [Besuche iART](https://www.iart.vision)()
+- **Inception:** [https://dhd24.open-develop.org/](https://dhd24.open-develop.org/)
+- **SPINACH:** [https://spinach.genie.stanford.edu/](https://spinach.genie.stanford.edu/)
+- **iART:** [https://www.iart.vision](https://www.iart.vision)
