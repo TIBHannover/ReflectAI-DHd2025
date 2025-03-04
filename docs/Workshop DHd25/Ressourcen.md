@@ -31,3 +31,4 @@ sidebar_label: Ressourcen
 - Software-Tool für manuelle Annotation **INCEpTION**: [https://dhd24.open-develop.org/](https://dhd24.open-develop.org/)
 - **SPINACH**: [https://spinach.genie.stanford.edu/](https://spinach.genie.stanford.edu/)
 - Bildsuchmaschine **iART**: [https://www.iart.vision](https://www.iart.vision)
+- *Let's build GPT from scratch* from Andrew Karpathy (OpenAI): [https://www.youtube.com/watch?v=kCc8FmEb1nY](https://www.youtube.com/watch?v=kCc8FmEb1nY)
