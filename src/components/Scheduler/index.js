@@ -72,7 +72,7 @@ const SchedulerItemsTuesday = [
   },
   {
     start: '14:30',
-    end: '15:00',
+    end: '15:30',
     text: (
       <>
         Testen der automatisierten Extraktion mithilfe der vorgestellten Methoden mit Beispieltexten.

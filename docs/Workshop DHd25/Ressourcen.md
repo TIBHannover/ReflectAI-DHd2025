@@ -16,6 +16,7 @@ sidebar_label: Ressourcen
   Übungen zur automatisierten Triplet-Extraktion in Google Colab:   
   - [BERT](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/bert.ipynb)
   - [LM](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/gpt2.ipynb)
+  - [Instruction LLM](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/inst.ipynb)
   - [KnowGL](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/knowgl.ipynb)
   - [DeepKE](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/deepke.ipynb)
   - [Instructor](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/instructor.ipynb)
