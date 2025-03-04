@@ -24,21 +24,21 @@ Das Ziel dieses Workshops ist es, Forschenden aus den Digital Humanities neue Me
 
 ### Montag, 3. März 2025
 
-- **14:00 - 14:30** Begrüßung der Teilnehmenden und Vorstellung von ReflectAI und iART
-- **14:30 - 15:00** Einführung in Wissensgraphen” (Ralf Krestel)
-- **15:00 - 15:30** Pause (30 min)
-- **15:30 - 16:00** Vorstellung der Annotationsrichtlinien von ReflectAI und Beispiele für manuelle Triplet-Extraktion.
-- **16:00 - 17:00** Erstellen von Ontologien und extrahieren von Triples aus Texten -  manuell oder mithilfe eines unterstützenden Tools wie Inception
-- **17:00 - 17:30** Einrichten der gemeinsamen Arbeitsumgebung in Google Colab
+- **14:00 – 14:30** Begrüßung der Teilnehmenden und Vorstellung von ReflectAI und iART
+- **14:30 – 15:00** Einführung in Wissensgraphen” (Ralf Krestel)
+- **15:00 – 15:30** Pause (30 min)
+- **15:30 – 16:00** Vorstellung der Annotationsrichtlinien von ReflectAI und Beispiele für manuelle Triplet-Extraktion.
+- **16:00 – 17:00** Erstellen von Ontologien und extrahieren von Triples aus Texten -  manuell oder mithilfe eines unterstützenden Tools wie Inception
+- **17:00 – 17:30** Einrichten der gemeinsamen Arbeitsumgebung in Google Colab
 
 ### Dienstag, 4. März 2025
-- **14:00 - 14:15** Vorstellung der DFG-Projekte [**ReflectAI**](https://www.digitalesbild.gwi.uni-muenchen.de/reflexionsbasierte-kuenstliche-intelligenz-in-der-kunstgeschichte-erklaerbare-hybride-modelle-fuer-die-bildersuche-und-analyse/) und [**iART**](https://iart.vision)
-- **14:15 - 14:45** Einführung in verschiedene Methoden zur automatisierten Triplet-Extraktion mit großen Sprachmodellen, u. a. KnowGL, Instructor und DeepKE
-- **14:45 - 15:30** Testen der automatisierten Extraktion mithilfe der vorgestellten Methoden mit Beispieltexten
-- **15:30 - 16:00** Pause
-- **16:00 - 16:30** Fortführung automatische Triplet-Extraktion und Vergleich mit manuellen Annotationen
-- **16:30 - 17:00** Abgleichen der extrahierten Entitäten mit Wikidata und kurze Vorstellung der Abfragesprache SPARQL, um gezielt Informationen aus Wissensgraphen zu extrahieren
-- **17:00 - 17:30** Zusammenfassung der wichtigsten Ergebnisse und Gelegenheit für Feedback und offene Fragen
+- **14:00 – 14:15** Vorstellung der DFG-Projekte [**ReflectAI**](https://www.digitalesbild.gwi.uni-muenchen.de/reflexionsbasierte-kuenstliche-intelligenz-in-der-kunstgeschichte-erklaerbare-hybride-modelle-fuer-die-bildersuche-und-analyse/) und [**iART**](https://iart.vision)
+- **14:15 – 14:45** Einführung in verschiedene Methoden zur automatisierten Triplet-Extraktion mit großen Sprachmodellen, u. a. KnowGL, Instructor und DeepKE
+- **14:45 – 15:30** Testen der automatisierten Extraktion mithilfe der vorgestellten Methoden mit Beispieltexten
+- **15:30 – 16:00** Pause
+- **16:00 – 16:30** Fortführung automatische Triplet-Extraktion und Vergleich mit manuellen Annotationen
+- **16:30 – 17:00** Abgleichen der extrahierten Entitäten mit Wikidata und kurze Vorstellung der Abfragesprache SPARQL, um gezielt Informationen aus Wissensgraphen zu extrahieren
+- **17:00 – 17:30** Zusammenfassung der wichtigsten Ergebnisse und Gelegenheit für Feedback und offene Fragen
 
 ## Material 
 
