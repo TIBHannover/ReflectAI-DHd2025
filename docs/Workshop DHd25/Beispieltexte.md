@@ -4,9 +4,7 @@ title: Beispieltexte
 sidebar_label: Beispieltexte
 ---
 
-## Text 1
-
-Conversion of Mary Magdalen
+## Text 1: Conversion of Mary Magdalen
 
 Schalcken portrayed Mary Magdalene with delicate brushwork and rendered her surroundings with an exacting eye for detail. We see her seated beside a sarcophagus; on it lies a thick book and on top of that a burning oil lamp, which she grips with her right hand. 
 The light from this lamp falls mainly on the saint’s nearly naked bosom. 
@@ -19,9 +17,7 @@ The left side of the composition is closed off by a large, red drapery decorated
 A round column on a high base stands behind Mary Magdalene, and visible at the right is a nocturnal view of a rough sea, with several ships in distress. 
 This last scene refers to the Legenda Aurea, which tells how the Magdalen boarded an unnavigable boat in Palestine and finally disembarked in the south of France, near Marseille.
 
-## Text 2
-
-Hunter Getting Dressed after Bathing
+## Text 2: Hunter Getting Dressed after Bathing
 
 In one of the most remarkable and unexpected paintings in Dutch art, Gabriel Metsu has here portrayed himself as a seated nude bather putting on his shirt after a dip in the water. 
 Not at all modest, he smiles at the viewer like an actor addressing his audience. 
@@ -32,9 +28,7 @@ Given the watery terrain of the Netherlands, remarkably few works actually depic
 Bathers are sometimes seen in landscape paintings by, among others, Philips Wouwerman (1619–68), Paulus Potter (1625–54), and Jacob van Ruisdael (1628/29–82), but they are generally small-scale figures and not individualized as in this case.
 
 
-## Text 3
-
-Man with a Book
+## Text 3: Man with a Book
 
 In a bare, darkened interior, an elegantly dressed man sits at a table before an open book. 
 Paused in his reading, he distractedly turns the cord of his collar between his fingers as his left hand rests on the book’s pages. 
@@ -46,9 +40,7 @@ Images of a scholar in his study were popular in the seventeenth century.
 Rembrandt van Rijn (1606–69), with whom Bol studied in the late 1630s and early 1640s, treated the theme a number of times, as did Gerrit Dou (1613–75).
 For his image, Ferdinand Bol relied on the compositional model provided by Rembrandt in his 1635 etching of Johannes Uytenbogaert(fig 1), in which the prominent Remonstrant minister, dressed in a similar tabard and a black skullcap and seated before a table and large opened book, has paused from reading.
 
-## Text 4
-
-Perseus und Andromeda
+## Text 4: Perseus und Andromeda
 
 Zauner is the last major sculptor in Vienna, dating from the 18th century. 
 From 1776 to 1781 he studied ancient excavations, as well as the works of Michelangelo and Raphael, then headed the sculpture class at the Academy of Fine Arts in Vienna, where he was director from 1806 to 1815. 
@@ -60,9 +52,7 @@ As the woman leaves the rock, she looks at the monster, whose big mouth is pushi
 But her Perseus is helpful.
 His posture of the highest elegance, like the gallantry of the outspoken Ancien Regime, and his supporting arm, which encircles Andromeda's body, shapes her hesitant steps forward with the highest grace. 
 
-## Text 5
-
-Portrait of Laura Dianti
+## Text 5: Portrait of Laura Dianti
 
 Portrait of Laura Dianti is a c. 1520–25 painting by Titian, now held in the H. Kisters Collection at Kreuzlingen. 
 It is signed "TICI/ANVS F." 
