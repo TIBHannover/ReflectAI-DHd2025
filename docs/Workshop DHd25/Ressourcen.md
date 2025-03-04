@@ -12,7 +12,7 @@ sidebar_label: Ressourcen
 
 ## Colab Notebooks für große Sprachmodelle
 - Huggingface token: ```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```
-- Übungen zur automatisierten Triplet-Extraktion in Google Colab:   
+- Übungen zur automatisierten Triplet-Extraktion in [Google Colab](https://colab.research.google.com/):   
   - [BERT](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/bert.ipynb)
   - [LM](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/gpt2.ipynb)
   - [Instruction LLM](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/inst.ipynb)
