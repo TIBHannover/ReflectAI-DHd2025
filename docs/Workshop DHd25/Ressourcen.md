@@ -24,6 +24,8 @@ sidebar_label: Ressourcen
   [Link zu den Annotation Guidelines](https://guideline.open-develop.org)
 
 - **Reconciliation mit Wikidata**:
+  - [SPARQL Tutorial Material](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)
+  - [Beispielabfrage](https://w.wiki/CQBA)
   - [Reconciliaion W3C Standard](https://www.w3.org/community/reports/reconciliation/CG-FINAL-specs-0.2-20230410/)
   - [Test Bench](https://reconciliation-api.github.io/testbench/#/)
   - [Mehr Informationen und Tutorials (auch mit OpenRefine)](https://wikidata.reconci.link/)
