@@ -23,6 +23,11 @@ sidebar_label: Ressourcen
 - **Annotaiton Guidelines ReflectAI:**
   [Link zu den Annotation Guidelines](https://guideline.open-develop.org)
 
+- **Reconciliation mit Wikidata**:
+  - [Reconciliaion W3C Standard](https://www.w3.org/community/reports/reconciliation/CG-FINAL-specs-0.2-20230410/)
+  - [Test Bench](https://reconciliation-api.github.io/testbench/#/)
+  - [Mehr Informationen und Tutorials (auch mit OpenRefine)](https://wikidata.reconci.link/)
+
 # Links
 
 - **Inception:** [Besuche Inception](https://dhd24.open-develop.org/)
