@@ -1,6 +1,5 @@
 ---
-title: {siteConfig.title}
-subtitle: {siteConfig.tagline}
+
 ---
 
 <header className="heroBanner">
@@ -24,7 +23,7 @@ Das Ziel dieses Workshops ist es, Forschenden aus den Digital Humanities neue Me
 ### Montag, 3. März 2025
 
 - **14:00 - 14:30** Begrüßung der Teilnehmenden und Vorstellung von ReflectAI und iART
-- **14:30 - 15:00** “Einführung in Wissensgraphen” (Ralf Krestel)
+- **14:30 - 15:00** Einführung in Wissensgraphen” (Ralf Krestel)
 - **15:00 - 15:30** Pause (30 min)
 - **15:30 - 16:00** Vorstellung der Annotationsrichtlinien von ReflectAI und Beispiele für manuelle Triplet-Extraktion.
 - **16:00 - 17:00** Erstellen von Ontologien und extrahieren von Triples aus Texten -  manuell oder mithilfe eines unterstützenden Tools wie Inception
