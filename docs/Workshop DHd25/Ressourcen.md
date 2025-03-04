@@ -17,6 +17,7 @@ sidebar_label: Ressourcen
   - [BERT](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/bert.ipynb)
   - [LM](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/gpt2.ipynb)
   - [KnowGL](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/knowgl.ipynb)
+  - [DeepKE](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/deepke.ipynb)
   - [Instructor](https://colab.research.google.com/github/TIBHannover/ReflectAI-DHd2025/blob/main/notebooks/instructor.ipynb)
 - **Annotaiton Guidelines ReflectAI:**
   [Link zu den Annotation Guidelines](https://guideline.open-develop.org)

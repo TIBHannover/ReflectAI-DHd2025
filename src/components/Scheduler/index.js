@@ -81,15 +81,15 @@ const SchedulerItemsTuesday = [
   },
   {
     start: '15:30',
-    end: '15:45',
+    end: '16:00',
     text: (
       <>
-        Pause (15 min)
+        Pause (30 min)
       </>
     ),
   },
   {
-    start: '15:45',
+    start: '16:00',
     end: '16:30',
     text: (
       <>
