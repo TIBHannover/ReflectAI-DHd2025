@@ -41,7 +41,7 @@ Das Ziel dieses Workshops ist es, Forschenden aus den Digital Humanities neue Me
 
 ## Material 
 
-Das Material für den Workshop inklusive der Vortragsfolien, Texten für die Annotation und interaktiven Tools finden sie [hier](http://localhost:3001/ReflectAI-DHd2025/docs/Workshop%20DHd25/beispieltexte).
+Das Material für den Workshop inklusive der Vortragsfolien, Texten für die Annotation und interaktiven Tools finden sie [hier](https://tibhannover.github.io/ReflectAI-DHd2025/docs/Workshop%20DHd25/beispieltexte).
 
 ## Organisatoren
 
