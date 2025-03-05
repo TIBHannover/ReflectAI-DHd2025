@@ -8,6 +8,7 @@ sidebar_label: Ressourcen
 
 ## Präsentationen & Handouts
 - Präsentation von Prof. Ralf Krestel zum Thema Wissengraphen ([PDF](https://github.com/TIBHannover/ReflectAI-DHd2025/blob/main/resources/2025-03-03-Einf%C3%BChrungInWissensgraphen-ReflectAI-dDH-Bielefeld.pdf))
+- Präsentation von Julian Stalter und Matthias Springstein ([PDF](https://github.com/TIBHannover/ReflectAI-DHd2025/blob/main/resources/slides.pdf))
 - Guidelines zur manuellen Annotation von Entitäten ([Link](https://guideline.open-develop.org))
 
 ## Colab Notebooks für große Sprachmodelle
